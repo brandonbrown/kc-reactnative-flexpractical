@@ -1,0 +1,1 @@
+ const unsigned char practicalFlexLayoutVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:practicalFlexLayout  PROJECT:practicalFlexLayout-1" "\n"; const double practicalFlexLayoutVersionNumber __attribute__ ((used)) = (double)1.;
